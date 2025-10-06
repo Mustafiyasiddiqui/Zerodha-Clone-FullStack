@@ -17,17 +17,21 @@ code {
   padding: 10%;
 }
 
-.support {
+#supportHero {
   background-color: #3b82f6;
-  width: 100%;
   color: white;
-  padding: 60px 50px;
 
 }
 
-.supportInput {
-  width: 400px;
-  height: 45px;
-  font-size: 16px;
-  border-radius: 5px;
+#supportWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 200px;
+}
+
+#supportHero input {
+  padding: 15px;
+  width: 100%;
+  border: "none";
+  border-radius: 10px;
 }
