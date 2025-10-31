@@ -64,25 +64,6 @@ npm run dev
 Open your browser at:
 http://localhost:5173 (or your dev server port)
 
-🧭 Folder Structure
-zerodha/
-│
-├── backend/             # Express + Node.js server
-│   ├── models/          # MongoDB models
-│   ├── routes/          # API routes
-│   ├── controllers/     # Business logic
-│   └── server.js
-│
-├── frontend/            # React application
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── .gitignore
-├── README.md
-└── package.json
-
-
 🌟 Learning Outcomes
 Built a complete MERN stack project from scratch.
 Implemented authentication and RESTful APIs.
