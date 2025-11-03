@@ -7,12 +7,12 @@ const TopBar = () => {
       <div className="indices-container">
         <div className="nifty">
           <p className="index">NIFTY 50</p>
-          <P className="index-points">{100.2}</P>
+          <p className="index-points">{100.2}</p>
           <p className="percent"></p>
         </div>
         <div className="sensex">
           <p className="index">SENSEX</p>
-          <P className="index-points">{100.2}</P>
+          <p className="index-points">{100.2}</p>
           <p className="percent"></p>
         </div>
       </div>
